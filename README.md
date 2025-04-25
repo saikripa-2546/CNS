@@ -74,3 +74,6 @@ void main()
 
 
 OUTPUT :-
+
+![image](https://github.com/user-attachments/assets/2a72a0be-242a-4bb0-9b2a-df7e985a275d)
+
